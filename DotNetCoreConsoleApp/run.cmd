@@ -1,0 +1,1 @@
+dotnet DotNetCore.dll
