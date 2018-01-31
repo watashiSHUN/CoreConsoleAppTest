@@ -1,1 +1,1 @@
-dotnet DotNetCore.dll
+dotnet DotNetCoreConsoleApp.dll
